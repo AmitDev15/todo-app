@@ -84,7 +84,7 @@ todo-app/
 Example layout:
 
 - **Home Page**  
-  ![App Screenshot](./screenshots/home.png)
+  ![App Screenshot](./todo-list.png)
 
 ---
 
